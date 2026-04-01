@@ -33,9 +33,10 @@ college-mapping/
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/campus-gps-mapper.git
+git clone https://github.com/gowthamiannu46/campus-gps-mapper.git
 cd campus-gps-mapper
-pip install -r requirements.txt
+pip install -r campus-gps-mapper
+
 ```
 
 ---
